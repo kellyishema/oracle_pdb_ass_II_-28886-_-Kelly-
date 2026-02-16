@@ -105,3 +105,13 @@ All issues were resolved successfully through troubleshooting and command verifi
 I hereby confirm that this assignment was completed independently in my own Oracle environment. All commands were executed individually, and all screenshots reflect my original work. I have followed academic integrity guidelines and have not copied or misrepresented any part of this assignment.
 
 
+
+# FINAL CHECK LIST
+Correct PDB names used :CHEKED
+User created inside the PDB: CHEKED
+Temporary PDB created and deleted :CHEKED
+OEM dashboard screenshot included :CHECKED
+GitHub repository is PUBLIC :CHEKED
+README is clear and professional: CHEKED
+Deadline respected : YES
+
