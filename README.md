@@ -7,19 +7,10 @@ This assignment focused on practical implementation of Oracle Multitenant Archit
 The assignment consisted of three major technical tasks:
 
 1.Creating a new Pluggable Database using a strict naming convention.
-<img width="1041" height="505" alt="pluggable created successfully" src="https://github.com/user-attachments/assets/209a966a-7e62-45df-b462-9a063583cd57" />
-
 
 2.Creating a database user inside the PDB for future coursework.
-<img width="524" height="232" alt="USER CREATED" src="https://github.com/user-attachments/assets/b25893e9-6a14-41e0-8c35-432e2c2d0617" />
 
-I also Granted a USER
-<img width="809" height="385" alt="user created and granted sucessfully" src="https://github.com/user-attachments/assets/2f0b048e-047f-487f-a7d8-7d663208e8d6" />
 3.Creating and completely deleting a temporary PDB.
-Creation of a temporary PDB.
-<img width="865" height="403" alt="pluggable to delete created sucessfully" src="https://github.com/user-attachments/assets/53355f1d-9e49-4489-8960-6800477bdbf4" />
-Deletation of a temporary PDB.
-<img width="758" height="286" alt="Pluggable drop_deleted successfully" src="https://github.com/user-attachments/assets/5c0cf07c-c3e0-4ead-962c-346f0b08685b" />
 
 4.Configuring and accessing Oracle Enterprise Manager (OEM) to verify the database environment visually.
 
@@ -112,8 +103,7 @@ All issues were resolved successfully through troubleshooting and command verifi
 # 5. Integrity Statement
 
 I hereby confirm that this assignment was completed independently in my own Oracle environment. All commands were executed individually, and all screenshots reflect my original work. I have followed academic integrity guidelines and have not copied or misrepresented any part of this assignment.
- # OEM dashboard screenshot included
- <img width="1129" height="512" alt="dash" src="https://github.com/user-attachments/assets/c43493ad-fb4f-48cd-b7e0-890c2458f972" />
+ 
 
 # FINAL CHECK LIST
 *Correct PDB names used :CHEKED
