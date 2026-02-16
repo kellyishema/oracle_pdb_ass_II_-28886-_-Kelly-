@@ -116,11 +116,11 @@ I hereby confirm that this assignment was completed independently in my own Orac
 
 
 # FINAL CHECK LIST
-1.Correct PDB names used :CHEKED
-2.User created inside the PDB: CHEKED
-3.Temporary PDB created and deleted :CHEKED
-OEM dashboard screenshot included :CHECKED
-GitHub repository is PUBLIC :CHEKED
-README is clear and professional: CHEKED
-Deadline respected : YES
+*Correct PDB names used :CHEKED
+* User created inside the PDB: CHEKED
+* Temporary PDB created and deleted :CHEKED
+* OEM dashboard screenshot included :CHECKED
+* GitHub repository is PUBLIC :CHEKED
+* README is clear and professional: CHEKED
+* Deadline respected : YES
 
