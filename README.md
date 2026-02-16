@@ -112,8 +112,8 @@ All issues were resolved successfully through troubleshooting and command verifi
 # 5. Integrity Statement
 
 I hereby confirm that this assignment was completed independently in my own Oracle environment. All commands were executed individually, and all screenshots reflect my original work. I have followed academic integrity guidelines and have not copied or misrepresented any part of this assignment.
-
-
+ # OEM dashboard screenshot included
+ <img width="1129" height="512" alt="dash" src="https://github.com/user-attachments/assets/c43493ad-fb4f-48cd-b7e0-890c2458f972" />
 
 # FINAL CHECK LIST
 *Correct PDB names used :CHEKED
