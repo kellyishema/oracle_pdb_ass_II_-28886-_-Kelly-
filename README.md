@@ -28,15 +28,15 @@ Each task required proper verification through commands and screenshots to confi
 
 2. Oracle Environment Used
 
-The assignment was completed using the following environment:
+# The assignment was completed using the following environment:
 
-Database System: Oracle Database 21c
+* Database System: Oracle Database 21c
 
-Architecture: Multitenant Architecture (CDB and PDB)
+* Architecture: Multitenant Architecture (CDB and PDB)
 
-Database Tool: SQL Developer
+* Database Tool: SQL Developer
 
-Management Interface: Oracle Enterprise Manager
+* Management Interface: Oracle Enterprise Manager
 
 Operating System: [Specify: Windows]
 
