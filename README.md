@@ -1,18 +1,18 @@
 # oracle_pdb_ass_II_-28886-_-Kelly-
 # Oracle Pluggable Database Assignment II – Documentation
-1. Overview of Tasks
+# 1. Overview of Tasks
 
 This assignment focused on practical implementation of Oracle Multitenant Architecture using Pluggable Databases (PDBs). The objective was to demonstrate the ability to create, manage, verify, and delete PDBs within a Container Database (CDB) environment.
 
 The assignment consisted of three major technical tasks:
 
-Creating a new Pluggable Database using a strict naming convention.
+1.Creating a new Pluggable Database using a strict naming convention.
 
-Creating a database user inside the PDB for future coursework.
+2.Creating a database user inside the PDB for future coursework.
 
-Creating and completely deleting a temporary PDB.
+3.Creating and completely deleting a temporary PDB.
 
-Configuring and accessing Oracle Enterprise Manager (OEM) to verify the database environment visually.
+4.Configuring and accessing Oracle Enterprise Manager (OEM) to verify the database environment visually.
 
 Each task required proper verification through commands and screenshots to confirm successful execution.
 
