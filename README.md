@@ -38,7 +38,7 @@ Each task required proper verification through commands and screenshots to confi
 
 * Management Interface: Oracle Enterprise Manager
 
-Operating System: [Specify: Windows]
+* Operating System: [Specify: Windows]
 
 Oracle Multitenant Architecture allows multiple pluggable databases (PDBs) to exist inside one container database (CDB). This architecture improves resource management, scalability, and administrative efficiency.
 
