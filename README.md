@@ -12,6 +12,7 @@ The assignment consisted of three major technical tasks:
 
 2.Creating a database user inside the PDB for future coursework.
 <img width="524" height="232" alt="USER CREATED" src="https://github.com/user-attachments/assets/b25893e9-6a14-41e0-8c35-432e2c2d0617" />
+
 I also Granted a USER
 <img width="809" height="385" alt="user created and granted sucessfully" src="https://github.com/user-attachments/assets/2f0b048e-047f-487f-a7d8-7d663208e8d6" />
 3.Creating and completely deleting a temporary PDB.
